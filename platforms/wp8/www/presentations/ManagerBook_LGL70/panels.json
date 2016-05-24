@@ -1,0 +1,1044 @@
+{
+    data: [
+        {
+            id: 2,
+            slide: 1,
+            order: 1,
+            title: "Witaj",
+            content: "",
+	        backgroundUrl: "",
+	        htmlFile: "Slajd_01_02.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 4,
+            slide: 2,
+            order: 1,
+            title: 'Zestaw kluczowych postaw',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_02_02.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 6,
+            slide: 3,
+            order: 1,
+            title: 'Zestaw kluczowych postaw',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_03_02.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 8,
+            slide: 4,
+            order: 1,
+            title: 'Zestaw kluczowych postaw',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_04_02.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 9,
+            slide: 5,
+            order: 1,
+            title: 'Schemat spotkania',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_05_01.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 10,
+            slide: 5,
+            order: 2,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_05_02.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 503,
+            slide: 5,
+            order: 3,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_05_03.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 11,
+            slide: 6,
+            order: 1,
+            title: 'Schemat spotkania',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_06_01.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 12,
+            slide: 6,
+            order: 2,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_06_02.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 603,
+            slide: 6,
+            order: 3,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_06_03.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 13,
+            slide: 7,
+            order: 1,
+            title: 'Schemat spotkania',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_07_01.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 14,
+            slide: 7,
+            order: 2,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_07_02.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 703,
+            slide: 7,
+            order: 3,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_07_03.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 15,
+            slide: 8,
+            order: 1,
+            title: 'Schemat spotkania',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_08_01.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 16,
+            slide: 8,
+            order: 2,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_08_02.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 803,
+            slide: 8,
+            order: 3,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_08_03.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 17,
+            slide: 9,
+            order: 1,
+            title: 'Schemat spotkania',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_09_01.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 18,
+            slide: 9,
+            order: 2,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_09_02.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 903,
+            slide: 9,
+            order: 3,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_09_03.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 1001,
+            slide: 10,
+            order: 1,
+            title: 'Schemat spotkania',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_10_01.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 1002,
+            slide: 10,
+            order: 2,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_10_02.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 1003,
+            slide: 10,
+            order: 3,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_10_03.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 1101,
+            slide: 11,
+            order: 1,
+            title: 'Schemat spotkania',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_11_01.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 1102,
+            slide: 11,
+            order: 2,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_11_02.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 1103,
+            slide: 11,
+            order: 3,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_11_03.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 1201,
+            slide: 12,
+            order: 1,
+            title: 'Schemat spotkania',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_12_01.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 1202,
+            slide: 12,
+            order: 2,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_12_02.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 1203,
+            slide: 12,
+            order: 3,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_12_03.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 1301,
+            slide: 13,
+            order: 1,
+            title: 'Schemat spotkania',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_13_01.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 1302,
+            slide: 13,
+            order: 2,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_13_02.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 1303,
+            slide: 13,
+            order: 3,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_13_03.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 1401,
+            slide: 14,
+            order: 1,
+            title: 'Schemat spotkania',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_14_01.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 1402,
+            slide: 14,
+            order: 2,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_14_02.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 1403,
+            slide: 14,
+            order: 3,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_14_03.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 1501,
+            slide: 15,
+            order: 1,
+            title: 'Schemat spotkania',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_15_01.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 1502,
+            slide: 15,
+            order: 2,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_15_02.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 1503,
+            slide: 15,
+            order: 3,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_15_03.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 1504,
+            slide: 15,
+            order: 4,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_15_04.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 1601,
+            slide: 16,
+            order: 1,
+            title: 'Schemat spotkania',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_16_01.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 1602,
+            slide: 16,
+            order: 2,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_16_02.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 1603,
+            slide: 16,
+            order: 3,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_16_03.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 1701,
+            slide: 17,
+            order: 1,
+            title: 'Schemat spotkania',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_17_01.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 1702,
+            slide: 17,
+            order: 2,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_17_02.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 1703,
+            slide: 17,
+            order: 3,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_17_03.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 1704,
+            slide: 17,
+            order: 4,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_17_04.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 1801,
+            slide: 18,
+            order: 1,
+            title: 'Schemat spotkania',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_18_01.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 1802,
+            slide: 18,
+            order: 2,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_18_02.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 1803,
+            slide: 18,
+            order: 3,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_18_03.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 1901,
+            slide: 19,
+            order: 1,
+            title: 'Schemat spotkania',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_19_01.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 1902,
+            slide: 19,
+            order: 2,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_19_02.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 1903,
+            slide: 19,
+            order: 3,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_19_03.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 2001,
+            slide: 20,
+            order: 1,
+            title: 'Schemat spotkania',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_20_01.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 2002,
+            slide: 20,
+            order: 2,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_20_02.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 2003,
+            slide: 20,
+            order: 3,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_20_03.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 2102,
+            slide: 20,
+            order: 4,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_21_02.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 2103,
+            slide: 20,
+            order: 5,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_21_03.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 2202,
+            slide: 20,
+            order: 6,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_22_02.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 2301,
+            slide: 23,
+            order: 1,
+            title: 'Schemat spotkania',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_23_01.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 2302,
+            slide: 23,
+            order: 2,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_23_02.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 2303,
+            slide: 23,
+            order: 3,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_23_03.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 2401,
+            slide: 24,
+            order: 1,
+            title: 'Schemat spotkania',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_24_01.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 2402,
+            slide: 24,
+            order: 2,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_24_02.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 2403,
+            slide: 24,
+            order: 3,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_24_03.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 2501,
+            slide: 25,
+            order: 1,
+            title: 'Schemat spotkania',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_25_01.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 2502,
+            slide: 25,
+            order: 2,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_25_02.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 2503,
+            slide: 25,
+            order: 3,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_25_03.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 2601,
+            slide: 26,
+            order: 1,
+            title: 'Schemat spotkania',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_26_01.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 2602,
+            slide: 26,
+            order: 2,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_26_02.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 2603,
+            slide: 26,
+            order: 3,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_26_03.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 2701,
+            slide: 27,
+            order: 1,
+            title: 'Schemat spotkania',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_27_01.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 2702,
+            slide: 27,
+            order: 2,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_27_02.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 2703,
+            slide: 27,
+            order: 3,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_27_03.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 2802,
+            slide: 27,
+            order: 4,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_28_02.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 2901,
+            slide: 29,
+            order: 1,
+            title: 'Schemat spotkania',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_29_01.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 2902,
+            slide: 29,
+            order: 2,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_29_02.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 2903,
+            slide: 29,
+            order: 3,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_29_03.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 3002,
+            slide: 29,
+            order: 4,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_30_02.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 3003,
+            slide: 29,
+            order: 5,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_30_03.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 3101,
+            slide: 31,
+            order: 1,
+            title: 'Schemat spotkania',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_31_01.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 3102,
+            slide: 31,
+            order: 2,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_31_02.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 3103,
+            slide: 31,
+            order: 3,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "Slajd_31_03.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 3201,
+            slide: 32,
+            order: 1,
+            title: 'Schemat spotkania',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "slajd_32_01.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 3202,
+            slide: 32,
+            order: 2,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "slajd_32_02.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 3203,
+            slide: 32,
+            order: 3,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "slajd_32_03.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 3301,
+            slide: 33,
+            order: 1,
+            title: 'Schemat spotkania',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "slajd_33_01.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 3302,
+            slide: 33,
+            order: 2,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "slajd_33_02.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 3303,
+            slide: 33,
+            order: 3,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "slajd_33_03.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 3304,
+            slide: 33,
+            order: 4,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "slajd_33_04.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 3401,
+            slide: 34,
+            order: 1,
+            title: 'Schemat spotkania',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "slajd_34_01.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 3402,
+            slide: 34,
+            order: 2,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "slajd_34_02.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 3403,
+            slide: 34,
+            order: 3,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "slajd_34_03.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 3501,
+            slide: 35,
+            order: 1,
+            title: 'Schemat spotkania',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "slajd_35_01.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 3502,
+            slide: 35,
+            order: 2,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "slajd_35_02.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 3503,
+            slide: 35,
+            order: 3,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "slajd_35_03.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 3504,
+            slide: 35,
+            order: 4,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "slajd_35_04.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 3601,
+            slide: 36,
+            order: 1,
+            title: 'Schemat spotkania',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "slajd_36_01.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 3602,
+            slide: 36,
+            order: 2,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "slajd_36_02.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 3603,
+            slide: 36,
+            order: 3,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "slajd_36_03.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 3701,
+            slide: 37,
+            order: 1,
+            title: 'Schemat spotkania',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "slajd_37_01.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 3702,
+            slide: 37,
+            order: 2,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "slajd_37_02.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 3703,
+            slide: 37,
+            order: 3,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "slajd_37_03.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 3801,
+            slide: 38,
+            order: 1,
+            title: 'Schemat spotkania',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "slajd_38_01.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 3802,
+            slide: 38,
+            order: 2,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "slajd_38_02.html",
+	        htmlBaseUrl: "slides\/"
+        },
+        {
+            id: 3803,
+            slide: 38,
+            order: 3,
+            title: 'Jak przeprowadzić rozmowę',
+            content: "",
+	        backgroundUrl: "",
+                htmlFile: "slajd_38_03.html",
+	        htmlBaseUrl: "slides\/"
+        }
+    ]
+}

@@ -1,0 +1,208 @@
+{
+    data: [
+        {
+            id: 1,
+            chapter: 1,
+            order: 1,
+            title: 'Drogi Menedżerze...'
+        },
+        {
+            id: 2,
+            chapter: 2,
+            order: 1,
+            title: 'Ty'
+        },
+        {
+            id: 3,
+            chapter: 2,
+            order: 2,
+            title: 'Zespół'
+        },
+        {
+            id: 4,
+            chapter: 2,
+            order: 3,
+            title: 'Rezultaty'
+        },
+        {
+            id: 5,
+            chapter: 3,
+            order: 1,
+            title: 'Przekazywanie zadań/poleceń'
+        },
+        {
+            id: 6,
+            chapter: 3,
+            order: 2,
+            title: 'Delegowanie zadań'
+        },
+        {
+            id: 7,
+            chapter: 3,
+            order: 3,
+            title: 'Konsultacja, poznanie opinii'
+        },
+        {
+            id: 8,
+            chapter: 3,
+            order: 4,
+            title: 'Pozytywna informacja zwrotna'
+        },
+        {
+            id: 9,
+            chapter: 3,
+            order: 5,
+            title: 'Pochwała'
+        },
+        {
+            id: 10,
+            chapter: 3,
+            order: 6,
+            title: 'Konstruktywna informacja zwrotna'
+        },
+        {
+            id: 32,
+            chapter: 3,
+            order: 7,
+            title: 'Problemy z realizacją zadań'
+        },
+        {
+            id: 11,
+            chapter: 3,
+            order: 8,
+            title: 'Zdefiniowanie problemu i&nbsp;okreslenie rozwiazania'
+        },
+        {
+            id: 12,
+            chapter: 3,
+            order: 9,
+            title: 'Przekazanie informacji o&nbsp;premii'
+        },
+        {
+            id: 13,
+            chapter: 3,
+            order: 10,
+            title: 'Przekazanie informacji o&nbsp;braku premii'
+        },
+        {
+            id: 14,
+            chapter: 3,
+            order: 11,
+            title: 'Nagradzanie/&nbsp;Przekazanie informacji o&nbsp;podwyżce'
+        },
+        {
+            id: 33,
+            chapter: 3,
+            order: 12,
+            title: 'Przekazanie informacji o braku podwyżki'
+        },
+        {
+            id: 15,
+            chapter: 3,
+            order: 13,
+            title: 'Powierzenie nowego stanowiska /&nbsp;awans'
+        },
+        {
+            id: 16,
+            chapter: 3,
+            order: 14,
+            title: 'Przekazanie informacji o&nbsp;nowym stanowisku'
+        },
+        {
+            id: 17,
+            chapter: 3,
+            order: 15,
+            title: 'Powierzenie nowego stanowiska /&nbsp;degradacja'
+        },
+        {
+            id: 18,
+            chapter: 3,
+            order: 16,
+            title: 'Rozmowa na temat oczekiwań pracownika'
+        },
+        {
+            id: 19,
+            chapter: 3,
+            order: 17,
+            title: 'Odrzucenie wniosku'
+        },
+        {
+            id: 20,
+            chapter: 3,
+            order: 18,
+            title: 'Rozmowa oceniająca'
+        },
+        {
+            id: 34,
+            chapter: 3,
+            order: 19,
+            title: 'Rozmowa na temat motywacji pracownika'
+        },
+        {
+            id: 35,
+            chapter: 3,
+            order: 20,
+            title: 'Rozmowa na temat rozwoju pracownika'
+        },
+        {
+            id: 36,
+            chapter: 3,
+            order: 21,
+            title: 'Rozmowa o zmianie zachowania pracownika'
+        },
+        {
+            id: 37,
+            chapter: 3,
+            order: 22,
+            title: 'Rozmowa z pracownikiem planującym powrót do pracy'
+        },
+        {
+            id: 38,
+            chapter: 3,
+            order: 23,
+            title: 'Rozmowa o planowanej długiej nieobecności'
+        },
+        {
+            id: 23,
+            chapter: 4,
+            order: 1,
+            title: 'Spotkanie statusowe /&nbsp;podsumowujące'
+        },
+        {
+            id: 24,
+            chapter: 4,
+            order: 2,
+            title: 'Spotkanie inaugurujące /&nbsp;zarządzenie zmianą'
+        },
+        {
+            id: 25,
+            chapter: 4,
+            order: 3,
+            title: 'Wystąpienie/ Exposé menedżera'
+        },
+        {
+            id: 26,
+            chapter: 4,
+            order: 4,
+            title: 'Warsztat najlepszych praktyk'
+        },
+        {
+            id: 27,
+            chapter: 4,
+            order: 5,
+            title: 'Mini szkolenie /&nbsp;instruktaż'
+        },
+        {
+            id: 29,
+            chapter: 4,
+            order: 6,
+            title: 'Burza Mózgów /&nbsp;Giełda pomysłów'
+        },
+        {
+            id: 31,
+            chapter: 4,
+            order: 7,
+            title: 'Prezentacja'
+        },
+    ]
+}

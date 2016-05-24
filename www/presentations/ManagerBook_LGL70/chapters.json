@@ -1,0 +1,47 @@
+{
+    data: [
+        {
+            id: 1,
+	    typ: 1,
+            title: "Witaj",
+            icon: "icons/chpintro.png",
+            subtitle: "informacje wstępne",
+            icon2: "icons/chpintro_2.png"
+        },
+        {
+            id: 2,
+	    typ: 1,
+            title: "Zachowania Menedżera",
+            icon: "icons/chp1per.png",
+            subtitle: "zestaw kluczowych postaw menedżera",
+            icon2: "icons/chp1per_2.png"
+        },
+        {
+            id: 3,
+	    typ: 1,
+            title: "Rozmowy menedżerskie",
+            icon: "icons/chp2per.png",
+            subtitle: "schematy rozmów z podwładnymi",
+            icon2: "icons/chp2per_2.png"
+        },
+        {
+            id: 4,
+	    typ: 1,
+            title: "Spotkania zespołowe",
+            icon: "icons/chp3per.png",
+            subtitle: "schematy rozmów zespołowych",
+            icon2: "icons/chp3per_2.png"
+        },
+        {
+            id: 5,
+	    typ: 2,
+            title: "Instrukcja obsługi",
+            icon: "icons/chphelp.png",
+            subtitle: "Podręcznik Menedżera",
+            icon2: "icons/chphelp_2.png",
+            content: "",
+	    backgroundUrl: "help\/instrukcja.png"
+
+        }
+    ]
+}
